@@ -3,5 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MuleBAM"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/eclipse-workspace/HelloServer/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/mule-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/org.wso2.carbon.databridge.agent.thrift-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/org.wso2.carbon.databridge.commons-4.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

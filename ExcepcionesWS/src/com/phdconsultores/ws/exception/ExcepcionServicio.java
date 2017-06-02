@@ -8,9 +8,9 @@ import org.apache.log4j.PropertyConfigurator;
 /**
  * Clase para el manejo de excepciones de servicios web
  * 
- * @author abelardo
- * @version Versión inicial
- * @edited by simon
+ * @author Dr. Pedro Nolasco Bonillo Ramos
+ * @version 1.0
+ * @edited Dr. Pedro Nolasco Bonillo Ramos
  */
 @WebFault(name="ExcepcionServicio")
 public class ExcepcionServicio extends Exception {

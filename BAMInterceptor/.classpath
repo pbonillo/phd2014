@@ -3,5 +3,12 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MuleBAM"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/eclipse-workspace/HelloServer/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/mule-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/org.wso2.carbon.databridge.agent.thrift-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/org.wso2.carbon.databridge.commons-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/eclipse-workspace/HelloServer/WebContent/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/mule-example-bookstore-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pedro Bonilla/Documents/phd2014/librerias/mule-example-bookstore-api-3.0.0-m3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
