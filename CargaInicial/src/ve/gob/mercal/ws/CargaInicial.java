@@ -12,27 +12,17 @@ import com.phdconsultores.ws.exception.ExcepcionServicio;
 /**
  * Interfaz que expone el servicio de carga inicial que ejecuta un Kettle Job de Pentaho Data Integration
  * 
- * @author Avelardo Gavide
- * @version Versión incial
+ * @author Dr. Pedro Nolasco Bonillo Ramos
+ * @version Version
  * 
  */
 
-/**
- * 
- * @editado por: simonts 
- *
- *20/05/2016 
- *Se agregaron nuevos parametros de entrada para ejecutar el job
- *Se optimizo y adapto al nvo job que ejecuta todo
- *Se eliminaron parametros sobrantes
- *
- */
 
 @WebService(name = "CargaInicial", targetNamespace = "http://ws.mercal.gob.ve/")
 public interface CargaInicial {
 	
 	/**
-	 * Método que ejecuta un comando de sistema para lanzar un Kettle Job de Pentaho Data Integration
+	 * Metodo que ejecuta un comando de sistema para lanzar un Kettle Job de Pentaho Data Integration
 	 * 
 	 * 
 	 * @param	dirPDI								-Directorio donde esta el pdi en el host

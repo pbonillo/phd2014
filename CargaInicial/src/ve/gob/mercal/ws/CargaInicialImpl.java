@@ -20,24 +20,10 @@ import com.phdconsultores.ws.exception.ExcepcionServicio;
 /**
  * Clase que implementa el servicio de carga incial que ejecuta un Kettle Job de Pentaho Data Integration 
  * 
- * @author Avelardo Gavide
- * @version Versión incial
+ * @author Dr. Pedro Nolasco Bonillo Ramos
+ * @version 1.0
  *
  */
-
-/**
- * 
- * @editado por: simonts
- *  
- *
- *20/05/2016 
- *Se agregaron nuevos parametros de entrada para ejecutar el job
- *Se optimizo y adapto al nvo job que ejecuta todo
- *Se eliminaron parametros sobrantes
- *
- */
-
-
 
 @WebService(targetNamespace = "http://ws.mercal.gob.ve/", endpointInterface = "ve.gob.mercal.ws.CargaInicial",
 portName = "CargaInicialPort", serviceName = "CargaInicial")
