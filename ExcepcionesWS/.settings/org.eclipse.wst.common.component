@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="ExcepcionesWS">
+        <dependent-module archiveName="log4j-1.2.17.jar" deploy-path="/" handle="module:/classpath/lib/ExcepcionesWS/log4j-1.2.17.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>
